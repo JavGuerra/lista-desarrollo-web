@@ -68,6 +68,8 @@ por JavGuerra
 * YAML
 * TOML
 * CSON
+* BBCode
+* Markdown
 
 ## Servicios web XML
 * WSDL
@@ -240,6 +242,8 @@ por JavGuerra
 * Brackets
 * Atom
 * VS Code
+* Emacs
+* Vim
 
 ## Entornos de programacion IDE
 * Eclipse
