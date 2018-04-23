@@ -269,6 +269,12 @@ por JavGuerra
 * MongoDB
 * SQLite
 
+## Administradores de BBDD
+* MySQL Workbench
+* phpMyAdmin
+* HeidiSQL
+* SQLiteman
+
 ## Navegadores web
 * lynx
 * Mozilla Firefox
