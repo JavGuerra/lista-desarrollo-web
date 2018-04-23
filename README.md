@@ -23,12 +23,12 @@ por JavGuerra
 * UAAG
 * IndieUI
 * EARL
-*
 
 ## Lenguaje de marcas
 * HTML
 * XHTML
 * CSS
+* SCSS
 * XML
 * XML DTD
 * XML Schema
@@ -63,7 +63,8 @@ por JavGuerra
 * Sass
 * Less
 
-## Post CSS
+## Postprocesadores CSS
+* PostCSS
 * Autoprefixer
 
 ## Frameworks CSS
@@ -80,8 +81,30 @@ por JavGuerra
 * Angular.js
 * React.js
 * Meteor.js
+* Electron.js
 * jQuery.js
 * Modernizr
+
+## Frameworks Javascript para SVG
+* Raphael
+* Snap
+* SVG.js
+* Vivus
+* Bonsai
+* Velocity
+* Lazy Line Painter
+* Walkway
+
+## Frameworks Javascript para gráficas
+* Echarts
+* Tau Charts
+* Chart.js
+* Chartist
+* C3.js
+* Highcharts
+* ReCharts
+* Nvd3
+* Flot
 
 ## Frameworks PHP
 * Zend Framework
