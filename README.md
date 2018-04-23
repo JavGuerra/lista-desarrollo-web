@@ -4,17 +4,46 @@ por JavGuerra
 ## Webs de referencia
 * https://www.w3c.es/
 * https://www.w3schools.com/
-* 
+* http://examinator.ws/
+* http://www.tawdis.net/
+* https://achecker.ca/
+* http://joelcrawfordsmith.com/closest-font/
 
-## Tecnologias y protocolos
+
+## Tecnologias, protocolos y conceptos
+* URL
+* URI
+* TCP
+* IPv4
+* IPv6
+* ARP
+* POP
+* IMAP
+* SMTP
+* HTTP
+* HTTPS
+* FTP
+* SFTP
+* SSH
+* SCP
+* Telnet
+* P2P
 * AJAX
 * PWA
 * A2HS
 * DOM
 * BOM
+* schema.org
+* Open Graph
 * JAMstack
 * Web 2.0
 * Web semántica
+* Responsive design
+* SEO
+* Red social
+* Curator
+* Community Manager
+* Webmaster
 
 ## Protocolos de accesibilidad web
 * WAI ARIA
@@ -43,6 +72,40 @@ por JavGuerra
 * SOAP
 * RDF
 * RSS
+
+## Formatos multimedia y contenedores
+* AVI
+* QT
+* RM
+* WMV
+* MOV
+* MPEG
+* DIVX
+* H.264
+* H.265 / HEVC
+* VP8
+* OGG Vorbis
+* Webm
+* Webp
+* Matroska
+* FLV
+* SWF
+* BMP
+* JPEG / JPG
+* JP2 / JPEG 2000
+* BPG
+* PNG
+* GIF
+* MPA/ACC
+* FLAC
+* WAV
+* MP3
+* WMA
+* Stems
+* Opus
+* RA
+* AU
+* AIFF
 
 ## Lenguajes de script
 * Javascript
@@ -110,6 +173,7 @@ por JavGuerra
 * Zend Framework
 * Symfony
 * Laravel
+* PHPMailer
 
 ## Generadores de sitios estáticos
 * Jekyll
@@ -130,18 +194,24 @@ por JavGuerra
 ## Servicios on-line
 * Netlify
 * Github
-* 
+* Disqus
 
 ## Despliege
 * Sandstorm
-* 
+
+## Accesibilidad
+*  tota11y 
 
 ## Seguridad
 * Letsencrypt
 * Certbot
 
-## Accesibilidad
-* 
+## CDN
+* Cloudflare
+* MaxCDN
+* Amazon CloudFront
+* Akamai Edge
+* Fastly
 
 ## Editores
 * Brackets
@@ -157,6 +227,18 @@ por JavGuerra
 * Filezilla
 * XML Copy editor
 * Google Web Designer
+* Pencil
+* Gimp
+* Inkscape
+* Agave
+* Putty
+* Audacity
+* OpenShot
+* VLC
+* HandBrake
+* AviDemux
+* MediaConverter
+* WinFF
 
 ## Bases de datos SGBDR
 * MariaDB
@@ -168,20 +250,21 @@ por JavGuerra
 * Apache
 * Nginx
 
-## Recursos iconos
+## Navegadores web
+* lynx
+* Mozilla Firefox
+* Chrome
+
+## Recursos web
 * Icons8
-
-## Recursos fotografias
+* Font Awesome
 * Unsplash
-
-## Recursos vectores
+* freepik.com
 * Openclipart
-
-## Recursos Gifs
-*
-
-## Recursos videos
-*
-
-## Recursos sonidos
-*
+* realfavicongenerator.net
+* flaticon.com
+* Google fonts
+* Google translate
+* Google analitycs
+* Google maps
+* Youtube
