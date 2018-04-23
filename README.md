@@ -9,7 +9,6 @@ por JavGuerra
 * https://achecker.ca/
 * http://joelcrawfordsmith.com/closest-font/
 
-
 ## Tecnologias, protocolos y conceptos
 * URL
 * URI
@@ -37,6 +36,7 @@ por JavGuerra
 * Open Graph
 * JAMstack
 * MVC
+* CMS
 * CRUD
 * Web 2.0
 * Web semántica
@@ -206,6 +206,15 @@ por JavGuerra
 ## Despliege
 * Sandstorm
 
+## instaladores
+* npm
+* bower
+
+## Herramientas de automatización
+* Gulp.js
+* Grunt
+* Webpack
+
 ## Accesibilidad
 *  tota11y 
 
@@ -260,14 +269,28 @@ por JavGuerra
 * MongoDB
 * SQLite
 
-## Servidores web
-* Apache
-* Nginx
-
 ## Navegadores web
 * lynx
 * Mozilla Firefox
 * Chrome
+* Opera
+* Opera Mini
+* Edge
+* Internet Explorer
+* Safari
+* Dolphin
+
+## Servidores web
+* Apache
+* Nginx
+
+## Servidores Java
+* Geronimo
+* Glassfish
+* WildFly / JBoss AS
+
+## Servidores de contenedores servlets
+* Tomcat
 
 ## Recursos web
 * Icons8
