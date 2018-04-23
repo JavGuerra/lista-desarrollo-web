@@ -36,6 +36,8 @@ por JavGuerra
 * schema.org
 * Open Graph
 * JAMstack
+* MVC
+* CRUD
 * Web 2.0
 * Web semántica
 * Responsive design
@@ -175,6 +177,11 @@ por JavGuerra
 * Laravel
 * PHPMailer
 
+## Otros framewors
+* Ruby on Rails
+* Django
+* Flask
+
 ## Generadores de sitios estáticos
 * Jekyll
 * Hugo
@@ -212,6 +219,13 @@ por JavGuerra
 * Amazon CloudFront
 * Akamai Edge
 * Fastly
+
+## Control de versiones
+* Git
+* Subversion (svn)
+* Bazaar
+* Mercurial
+* SVC
 
 ## Editores
 * Brackets
