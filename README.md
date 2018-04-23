@@ -36,10 +36,20 @@ por JavGuerra
 * Telnet
 * P2P
 * AJAX
+* API
+* APP
+* APP Store
+* Repositorio
+* Commit
+* Pull request
+* Branch
+* Master
+* Fork
 * PWA
 * A2HS
 * DOM
 * BOM
+* Polyfill
 * schema.org
 * Open Graph
 * JAMstack
@@ -82,6 +92,13 @@ por JavGuerra
 * CSON
 * BBCode
 * Markdown
+
+## CSS Reset
+* Reset CSS
+* Normalize.css
+* HTML5 Doctor CSS Reset
+* Yahoo! (YUI 3) Reset CSS
+* minireset.css
 
 ## Servicios web XML
 * WSDL
@@ -176,6 +193,7 @@ por JavGuerra
 * Electron.js
 * jQuery.js
 * Modernizr
+* Polymer
 * popper.js
 
 ## Frameworks Javascript para SVG
