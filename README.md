@@ -10,6 +10,7 @@ por JavGuerra
 * http://joelcrawfordsmith.com/closest-font/
 
 ## Tecnologias, protocolos y conceptos
+* Metadata
 * URL
 * URI
 * TCP
@@ -19,6 +20,11 @@ por JavGuerra
 * POP
 * IMAP
 * SMTP
+* MIME
+* UUencoded
+* XXencoded
+* Base64
+* UTF-8
 * HTTP
 * HTTPS
 * FTP
@@ -40,12 +46,16 @@ por JavGuerra
 * CRUD
 * Web 2.0
 * Web semántica
+* Namespaces
 * Responsive design
 * SEO
 * Red social
 * Curator
 * Community Manager
 * Webmaster
+* Mockup
+* Plantilla
+* Skin
 
 ## Protocolos de accesibilidad web
 * WAI ARIA
@@ -78,38 +88,51 @@ por JavGuerra
 * RSS
 
 ## Formatos multimedia y contenedores
-* AVI
-* QT
-* RM
-* WMV
-* MOV
-* MPEG
-* DIVX
+* .PDF
+* .ZIP
+* .ARJ
+* .RAR
+* .LHA / LZH
+* .CAB
+* .7Z
+* .tgz / .tar.gz
+* .tbz, .tbz2, .tb2 / .tar.bz2
+* .taz, .tz / .tar.Z
+* .tlz / .tar.lz, .tar.lzma
+* .txz / .tar.xz 
+* .AVI
+* .QT
+* .RM
+* .WMV
+* .MOV
+* .MPEG
+* .DIVX
 * H.264
 * H.265 / HEVC
 * VP8
-* OGG Vorbis
-* Webm
-* Webp
+* .OGG Vorbis
+* .Webm
+* .Webp
 * Matroska
-* FLV
-* SWF
-* BMP
-* JPEG / JPG
-* JP2 / JPEG 2000
-* BPG
-* PNG
-* GIF
-* MPA/ACC
-* FLAC
-* WAV
-* MP3
-* WMA
+* .FLV
+* .SWF
+* .BMP
+* .JPEG / .JPG
+* .JP2 / JPEG 2000
+* .BPG
+* .PNG
+* .GIF
+* MPA / .ACC
+* .FLAC
+* .WAV
+* .MP3
+* .WMA
 * Stems
 * Opus
-* RA
-* AU
-* AIFF
+* .RA
+* .AU
+* .AIFF
+* .ISO / .IMG
 
 ## Lenguajes de script
 * Javascript
@@ -151,6 +174,7 @@ por JavGuerra
 * Electron.js
 * jQuery.js
 * Modernizr
+* popper.js
 
 ## Frameworks Javascript para SVG
 * Raphael
@@ -207,10 +231,18 @@ por JavGuerra
 
 ## Despliege
 * Sandstorm
+* .deb
+* .rpm
 
 ## instaladores
 * npm
 * bower
+* APT
+* Aptitude
+* Snap
+* Flatpack
+* Docker
+* Kubernetes
 
 ## Herramientas de automatización
 * Gulp.js
@@ -238,12 +270,13 @@ por JavGuerra
 * Mercurial
 * SVC
 
-## Editores
+## Editores y complementos
 * Brackets
 * Atom
 * VS Code
 * Emacs
 * Vim
+* Emmet
 
 ## Entornos de programacion IDE
 * Eclipse
@@ -266,6 +299,7 @@ por JavGuerra
 * AviDemux
 * MediaConverter
 * WinFF
+* 7zip
 
 ## Bases de datos SGBDR
 * MariaDB
@@ -316,3 +350,4 @@ por JavGuerra
 * Google analitycs
 * Google maps
 * Youtube
+* regexr.com
