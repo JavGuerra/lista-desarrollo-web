@@ -24,6 +24,8 @@ por JavGuerra
 * UUencoded
 * XXencoded
 * Base64
+* Encode
+* Decode
 * UTF-8
 * HTTP
 * HTTPS
