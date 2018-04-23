@@ -1,16 +1,63 @@
 # Lista de recursos para desarrollo web
 por JavGuerra
 
+## Webs de referencia
+* https://www.w3c.es/
+* https://www.w3schools.com/
+* 
+
+## Tecnologias y protocolos
+* AJAX
+* PWA
+* A2HS
+* DOM
+* BOM
+* JAMstack
+* Web 2.0
+* Web semántica
+
+## Protocolos de accesibilidad web
+* WAI ARIA
+* WCAG
+* ATAG
+* UAAG
+* IndieUI
+* EARL
+*
+
 ## Lenguaje de marcas
 * HTML
+* XHTML
 * CSS
 * XML
+* XML DTD
+* XML Schema
+* XSD Schema
+* JSON
+* YAML
+* TOML
+* CSON
+
+## Servicios web XML
+* WSDL
+* SOAP
+* RDF
+* RSS
 
 ## Lenguajes de script
 * Javascript
+* Node.js
 * PHP
+* ASP
+* SQL
 * Go
 * Ruby
+* Erlang
+* C, C#, C++
+* Java
+* Scala
+* Perl
+* Phyton
 
 ## Preprocesadores CSS
 * Sass
@@ -21,7 +68,12 @@ por JavGuerra
 
 ## Frameworks CSS
 * Bootstrap
+* Foundation
+* Materialize
 * Bulma CSS
+* Pure CSS
+* Kube
+* Vuetify
 
 ## Frameworks JavaScript
 * Vue.js
@@ -64,6 +116,9 @@ por JavGuerra
 ## Seguridad
 * Letsencrypt
 * Certbot
+
+## Accesibilidad
+* 
 
 ## Editores
 * Brackets
