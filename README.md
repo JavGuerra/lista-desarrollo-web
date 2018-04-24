@@ -1,7 +1,7 @@
 # Lista de recursos para desarrollo web
 por JavGuerra
 
-Reglas 'si es posible...'
+## Reglas 'si es posible...'
 - Si es posible, en castellano.
 - Si es posible, software libre.
 - Si es posible, multiplataforma.
@@ -9,44 +9,44 @@ Reglas 'si es posible...'
 
 ## Índice de contenidos
 
-* [Accesibilidad]()
-* [Accesibilidad - Protocolos web]()
-* [Bloqueadores de contenido]()
-* [CDN]()
-* [CMS]()
-* [CMS para sitios Flat-File]()
-* [CMS para sitios JAMstack]()
-* [Control de versiones]()
-* [CSS Preprocesadores]()
-* [CSS Postprocesadores]()
-* [CSS Reset]()
-* [Despliege e instaladores]()
-* [Editores y complementos]()
-* [Entornos de Desarrollo Integrado (IDE)]()
-* [Formatos y contenedores multimedia]()
-* [Frameworks CSS]()
-* [Frameworks JavaScript]()
-* [Frameworks Javascript para gráficas]()
-* [Frameworks Javascript para SVG]()
-* [Frameworks PHP]()
-* [Frameworks, Otros]()
-* [Generadores de sitios estáticos]()
-* [Herramientas]()
-* [Herramientas de automatización]()
-* [Lenguajes de marcas]()
-* [Lenguajes de script]()
-* [Minimizadores]()
-* [Monetización]()
-* [Navegadores Web]()
-* [Recursos web]()
-* [Seguridad]()
-* [Servicios en línea]()
-* [Servicios web XML]()
-* [Servidores de contenedores servlets]()
-* [Servidores Java]()
-* [Servidores Web]()
-* [SGBD - Sistemas de gestión de bases de datos]()
-* [SGBD - Clientes para administración de BBDD]()
+* [Accesibilidad](#accesibilidad)
+* [Accesibilidad - Protocolos web](#accesibilidad---protocolos-web)
+* [Bloqueadores de contenido](#bloqueadores-de-contenido)
+* [CDN](#cdn)
+* [CMS](#cms)
+* [CMS para sitios Flat-File](#cms-para-sitios-flat-file)
+* [CMS para sitios JAMstack](#cms-para-sitios-jamstack)
+* [Control de versiones](#control-de-versiones)
+* [CSS Preprocesadores](#css-preprocesadores)
+* [CSS Postprocesadores](#css-postprocesadores)
+* [CSS Reset](#css-reset)
+* [Despliege e instaladores](#despliege-e-instaladores)
+* [Editores y complementos](#editores-y-complementos)
+* [Entornos de Desarrollo Integrado (IDE)](#entornos-de-desarrollo-integrado-ide)
+* [Formatos y contenedores multimedia](#formatos-y-contenedores-multimedia)
+* [Frameworks CSS](#frameworks-css)
+* [Frameworks JavaScript](#frameworks-javascript)
+* [Frameworks Javascript para gráficas](#frameworks-javascript-para-gr%C3%A1ficas)
+* [Frameworks Javascript para SVG](#frameworks-javascript-para-svg)
+* [Frameworks PHP](#frameworks-php)
+* [Frameworks, Otros](#frameworks-otros)
+* [Generadores de sitios estáticos](#generadores-de-sitios-est%C3%A1ticos)
+* [Herramientas](#herramientas)
+* [Herramientas de automatización](#herramientas-de-automatizaci%C3%B3n)
+* [Lenguajes de marcas](#lenguajes-de-marcas)
+* [Lenguajes de script](#lenguajes-de-script)
+* [Minimizadores](#minimizadores)
+* [Monetización](#monetizaci%C3%B3n)
+* [Navegadores Web](#navegadores-web)
+* [Recursos web](#recursos-web)
+* [Seguridad](#seguridad)
+* [Servicios en línea](#servicios-en-l%C3%ADnea)
+* [Servicios web XML](#servicios-web-xml)
+* [Servidores de contenedores servlets](#servidores-de-contenedores-servlets)
+* [Servidores Java](#servidores-java)
+* [Servidores Web](#servidores-web)
+* [SGBD - Sistemas de gestión de bases de datos](#sgbd---sistemas-de-gesti%C3%B3n-de-bases-de-datos)
+* [SGBD - Clientes para administración de BBDD](#sgbd---clientes-para-administraci%C3%B3n-de-bbdd)
 * [Tecnologias, protocolos y conceptos](#tecnologias-protocolos-y-conceptos)
 * [Webs de referencia](#webs-de-referencia)
 
@@ -303,25 +303,30 @@ Reglas 'si es posible...'
 * Phyton
 
 ## Minimizadores
-* [](https://github.com/kangax/html-minifier)
+* [Closure Compiler](https://developers.google.com/closure/compiler/)
+* [CSSNano])(https://github.com/ben-eb/cssnano)
+* [csso](https://github.com/css/csso)
+* [HTML Minifier](https://github.com/kangax/html-minifier)
 * [HTML Minifier](https://www.willpeavy.com/minifier/)
 * [Minify](https://www.minifier.org/)
 * [Minify your CSS](https://cssminifier.com/)
+* [PageSpeed Module](https://developers.google.com/speed/pagespeed/module/)
+* [UglifyJS2](https://github.com/mishoo/UglifyJS2)
 
 ## Monetización
 * [Flattr](https://flattr.com/)
 * [Patreon](https://www.patreon.com/)
 
 ## Navegadores Web
+* [Chrome](https://www.google.es/chrome/)
 * [Dolphin](http://dolphin.com/spain/)
-* Edge
-* Google Chrome
-* Internet Explorer
-* Lynx
-* Mozilla Firefox
-* Opera
-* Opera Mini
-* Safari
+* [Internet Explorer](https://es.wikipedia.org/wiki/Internet_Explorer)
+* [Lynx](http://lynx.invisible-island.net/lynx.html)
+* [Microsoft Edge](https://www.microsoft.com/es-es/windows/microsoft-edge)
+* [Mozilla Firefox](https://www.mozilla.org/es-ES/firefox/)
+* [Opera](https://www.opera.com/es)
+* [Opera Mini](https://www.opera.com/es/mobile/mini)
+* [Safari](https://www.apple.com/es/safari/)
 * [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en)
 
 ## Recursos web
@@ -385,6 +390,7 @@ Reglas 'si es posible...'
 
 ## Tecnologias, protocolos y conceptos
 * Metadata
+* TL;DR
 * UML
 * URL
 * URI
