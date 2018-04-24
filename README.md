@@ -59,12 +59,12 @@ por JavGuerra
 * [Tota11y](http://khan.github.io/tota11y/)
 
 ## Accesibilidad - Protocolos web
-* WAI ARIA
-* WCAG
-* ATAG
-* UAAG
-* IndieUI
-* EARL
+* [ATAG](https://www.w3.org/WAI/intro/atag)
+* [EARL](https://www.w3.org/WAI/intro/earl)
+* [Indie UI](https://www.w3.org/WAI/intro/indieui)
+* [UAAG](https://www.w3.org/WAI/intro/uaag)
+* [WAI ARIA](https://www.w3.org/WAI/intro/aria)
+* [WCAG](https://www.w3.org/WAI/intro/wcag)
 
 ## Bloqueadores de contenido
 * [AdBlock Plus](https://adblockplus.org/es/)
@@ -73,238 +73,237 @@ por JavGuerra
 * [uBlock Origin](https://github.com/gorhill/uBlock/)
 
 ## CDN
-* Cloudflare
-* MaxCDN
-* Amazon CloudFront
-* Akamai Edge
-* Fastly
+* [Amazon CloudFront](https://aws.amazon.com/es/cloudfront/)
+* [Akamai](https://www.akamai.com/es/es/)
+* [Cloudflare](https://www.cloudflare.com/es/)
+* [MaxCDN](https://www.maxcdn.com/)
 
 ## CMS
-* Wordpress
-* Joomla!
-* Drupal
+* [Drupal](https://www.drupal.org/)
+* [Joomla!](https://www.joomla.org/)
+* [Wordpress](https://es.wordpress.org/)
 
 ## CMS para sitios Flat-File
-* Grav
-* Kirby
-* Pìco
+* [Grav](https://getgrav.org/)
+* [Kirby](https://getkirby.com/)
+* [Pìco](http://picocms.org/)
 
 ## CMS para sitios JAMstack
-* NetlifyCMS
+* [Netlify CMS](https://www.netlifycms.org/)
 
 ## Control de versiones
-* Git
-* Subversion (svn)
-* Bazaar
-* Mercurial
-* SVC
+* [Apache Subversion (svn)](http://subversion.apache.org/)
+* [Bazaar](http://doc.bazaar.canonical.com/beta/es/mini-tutorial/)
+* [Git](https://git-scm.com/book/es/v2)
+* [Mercurial](https://www.mercurial-scm.org/)
+* [SVC](http://www.nongnu.org/cvs/)
 
 ## CSS Preprocesadores
-* Sass
 * Less
+* Sass
 
 ## CSS Postprocesadores
-* PostCSS
 * Autoprefixer
+* PostCSS
 
 ## CSS Reset
-* Reset CSS
-* Normalize.css
 * HTML5 Doctor CSS Reset
-* Yahoo! (YUI 3) Reset CSS
 * minireset.css
+* Normalize.css
+* Reset CSS
+* Yahoo! (YUI 3) Reset CSS
 
 ## Despliege e instaladores
-* Sandstorm
-* .deb
-* .rpm
-* npm
-* bower
 * APT
 * Aptitude
-* Snap
-* Flatpack
+* bower
+* .deb
 * Docker
+* Flatpack
 * Kubernetes
+* npm
+* .rpm
+* Sandstorm
+* Snap
 
 ## Editores y complementos
-* Brackets
 * Atom
-* VS Code
+* Brackets
 * Emacs
-* Vim
 * Emmet
+* Vim
+* VS Code
 
 ## Entornos de Desarrollo Integrado (IDE)
 * Eclipse
-* NetBeans
 * Geany
+* NetBeans
 
 ## Formatos y contenedores multimedia
-* .PDF
-* .ZIP
-* .ARJ
-* .RAR
-* .LHA / LZH
-* .CAB
 * .7Z
-* .tgz / .tar.gz
-* .tbz, .tbz2, .tb2 / .tar.bz2
+* .AIFF
+* .ARJ
+* .AU
+* .AVI
+* .BMP
+* .BPG
+* .CAB
+* .DIVX
+* .FLAC
+* .FLV
+* .GIF
+* .ISO / .IMG
+* .JP2 / JPEG 2000
+* .JPEG / .JPG
+* .LHA / LZH
+* .MOV
+* .MP3
+* .MPEG
+* .OGG Vorbis
+* .PDF
+* .PNG
+* .QT
+* .RA
+* .RAR
+* .RM
+* .SWF
 * .taz, .tz / .tar.Z
+* .tbz, .tbz2, .tb2 / .tar.bz2
+* .tgz / .tar.gz
 * .tlz / .tar.lz, .tar.lzma
 * .txz / .tar.xz 
-* .AVI
-* .QT
-* .RM
-* .WMV
-* .MOV
-* .MPEG
-* .DIVX
-* H.264
-* H.265 / HEVC
-* VP8
-* .OGG Vorbis
+* .WAV
 * .Webm
 * .Webp
-* Matroska
-* .FLV
-* .SWF
-* .BMP
-* .JPEG / .JPG
-* .JP2 / JPEG 2000
-* .BPG
-* .PNG
-* .GIF
-* MPA / .ACC
-* .FLAC
-* .WAV
-* .MP3
 * .WMA
-* Stems
+* .WMV
+* .ZIP
+* H.264
+* H.265 / HEVC
+* Matroska
+* MPA / .ACC
 * Opus
-* .RA
-* .AU
-* .AIFF
-* .ISO / .IMG
+* Stems
+* VP8
 
 ## Frameworks CSS
 * Bootstrap
-* Foundation
-* Materialize
 * Bulma CSS
-* Pure CSS
+* Foundation
 * Kube
+* Materialize
+* Pure CSS
 * Vuetify
 
 ## Frameworks JavaScript
-* Vue.js
 * Angular.js
-* React.js
-* Meteor.js
 * Electron.js
 * jQuery.js
+* Meteor.js
 * Modernizr
 * Polymer
 * popper.js
+* React.js
+* Vue.js
 
 ## Frameworks Javascript para gráficas
-* Echarts
-* Tau Charts
+* C3.js
 * Chart.js
 * Chartist
-* C3.js
-* Highcharts
-* ReCharts
-* Nvd3
+* Echarts
 * Flot
+* Highcharts
+* Nvd3
+* ReCharts
+* Tau Charts
 
 ## Frameworks Javascript para SVG
+* Bonsai
+* Lazy Line Painter
 * Raphael
 * Snap
 * SVG.js
-* Vivus
-* Bonsai
 * Velocity
-* Lazy Line Painter
+* Vivus
 * Walkway
 
 ## Frameworks PHP
-* Zend Framework
-* Symfony
 * Laravel
 * PHPMailer
+* Symfony
+* Zend Framework
 
 ## Frameworks, Otros
-* Ruby on Rails
 * Django
 * Flask
+* Ruby on Rails
 
 ## Generadores de sitios estáticos
-* Jekyll
-* Hugo
-* Next
 * Gatsby
 * Gitbook
+* Hugo
+* Jekyll
+* Next
 * Nuxt
 
 ## Herramientas
-* Filezilla
-* XML Copy editor
-* Google Web Designer
-* Pencil
-* Gimp
-* Inkscape
-* Agave
-* Putty
-* Audacity
-* OpenShot
-* VLC
-* HandBrake
-* AviDemux
-* MediaConverter
-* WinFF
 * 7zip
+* Agave
+* Audacity
+* AviDemux
+* Filezilla
+* Gimp
+* Google Web Designer
+* HandBrake
+* Inkscape
+* MediaConverter
+* OpenShot
+* Pencil
+* Putty
+* VLC
+* WinFF
+* XML Copy editor
 
 ## Herramientas de automatización
-* Gulp.js
 * Grunt
+* Gulp.js
 * Webpack
 
 ## Lenguajes de marcas
+* BBCode
+* CSON
+* CSS
 * HTML
 * HTML5
-* XHTML
-* CSS
+* JSON
+* Markdown
 * SCSS
+* TOML
+* XHTML
 * XML
 * XML DTD
 * XML Schema
 * XSD Schema
-* JSON
 * YAML
-* TOML
-* CSON
-* BBCode
-* Markdown
 
 ## Lenguajes de script
+* ASP
+* C, C#, C++
+* Erlang
+* Go
+* Java
 * Javascript
 * Node.js
-* PHP
-* ASP
-* SQL
-* Go
-* Ruby
-* Erlang
-* C, C#, C++
-* Java
-* Scala
 * Perl
+* PHP
 * Phyton
+* Ruby
+* Scala
+* SQL
 
 ## Minimizadores
 * [Closure Compiler](https://developers.google.com/closure/compiler/)
-* [CSSNano])(https://github.com/ben-eb/cssnano)
+* [CSSNano](https://github.com/ben-eb/cssnano)
 * [csso](https://github.com/css/csso)
 * [HTML Minifier](https://github.com/kangax/html-minifier)
 * [HTML Minifier](https://www.willpeavy.com/minifier/)
@@ -331,6 +330,7 @@ por JavGuerra
 
 ## Recursos web
 * [FlatIcon](https://www.flaticon.com/) 
+* [Feed Validation Service](https://validator.w3.org/feed/)
 * [Font Awesome](https://fontawesome.com/) 
 * [Freepik](https://www.freepik.com/)
 * [Gmail](https://www.google.com/intl/es-419/gmail/about/)
@@ -353,15 +353,18 @@ por JavGuerra
 * [Letsencrypt](https://letsencrypt.org/)
 
 ## Servicios en línea
-* Netlify
-* Github
-* Disqus
+* [Disqus](https://disqus.com/)
+* [Github](https://github.com/)
+* [Fastly](https://www.fastly.com/)
+* [Netlify](https://www.netlify.com/)
+* [Wordpress](https://es.wordpress.com/)
 
 ## Servicios web XML
-* WSDL
-* SOAP
-* RDF
-* RSS
+* [ATOM](https://www.ietf.org/rfc/rfc4287)
+* [RDF](https://www.w3.org/RDF/)
+* [RSS](https://validator.w3.org/feed/docs/rss2.html)
+* [SOAP](https://www.w3.org/TR/soap12/)
+* [WSDL](https://www.w3.org/TR/wsdl/)
 
 ## Servidores de contenedores servlets
 * [Apache Tomcat](http://tomcat.apache.org/)
@@ -377,91 +380,93 @@ por JavGuerra
 * [Nginx](http://nginx.org/)
 
 ## SGBD - Sistemas de gestión de bases de datos
-* MariaDB
-* PostgreSQL
-* MongoDB
-* SQLite
+* [MariaDB](https://mariadb.org/)
+* [MongoDB](https://www.mongodb.com/)
+* [PostgreSQL](https://www.postgresql.org/)
+* [SQLite](https://www.sqlite.org/)
 
 ## SGBD - Clientes para administración de BBDD
-* MySQL Workbench
-* phpMyAdmin
-* HeidiSQL
-* SQLiteman
+* [HeidiSQL](https://www.heidisql.com/)
+* [MySQL Workbench](https://www.mysql.com/products/workbench/)
+* [phpMyAdmin](https://www.phpmyadmin.net/)
+* [SQLiteman](https://sourceforge.net/projects/sqliteman/)
 
 ## Tecnologias, protocolos y conceptos
-* Metadata
-* TL;DR
-* UML
-* URL
-* URI
-* TCP
-* IPv4
-* IPv6
-* ARP
-* NNTP
-* POP
-* IMAP
-* SMTP
-* MIME
-* UUencoded
-* XXencoded
-* Base64
-* Encode
-* Decode
-* UTF-8
-* HTTP
-* HTTPS
-* FTP
-* SFTP
-* SSH
-* SCP
-* Telnet
-* P2P
-* TOR
+* A2HS
 * AJAX
 * API
 * APP
 * APP Store
-* Repositorio
-* Commit
-* Pull request
-* Branch
-* Master
-* Fork
-* PWA
-* A2HS
-* DOM
+* ARP
+* Atributo
+* Base64
 * BOM
-* Polyfill
-* schema.org
-* Open Graph
-* JAMstack
-* MVC
+* Branch
+* Clase
 * CMS
+* Commit
+* Community Manager
+* Constructor
+* Contador
 * CRUD
+* Curator
+* Decode
+* DOM
+* Encode
+* Fork
+* FTP
+* get
+* HTTP
+* HTTPS
+* IMAP
+* IPv4
+* IPv6
+* JAMstack
+* Master
+* Metadata
+* Método
+* MIME
+* Mockup
+* MVC
+* Namespaces
+* NNTP
+* Objeto
+* Open Graph
+* P2P
+* Plantilla
+* Polyfill
+* POP
+* Pull request
+* PWA
+* Red social
+* Repositorio
+* Responsive design
+* schema.org
+* SCP
+* SEO
+* set
+* SFTP
+* Skin
+* SMTP
+* SSH
+* TCP
+* Telnet
+* TL;DR
+* TOR
+* UML
+* URI
+* URL
+* UTF-8
+* UUencoded
 * Web 2.0
 * Web semántica
-* Namespaces
-* Responsive design
-* SEO
-* Red social
-* Curator
-* Community Manager
 * Webmaster
-* Mockup
-* Plantilla
-* Skin
-* Clase
-* Atributo
-* Método
-* Objeto
-* Constructor
-* set
-* get
-* Contador
+* XXencoded
 
 ## Webs de referencia
+* http://apache.org/
+* https://www.eff.org/
+* https://www.fsf.org/?set_language=es
+* http://www.gnu.org/
 * https://www.w3c.es/
 * https://www.w3schools.com/
-* https://www.eff.org/
-* http://apache.org/
