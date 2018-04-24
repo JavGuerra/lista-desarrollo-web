@@ -371,3 +371,4 @@ por JavGuerra
 * Google maps
 * Youtube
 * regexr.com
+* [Whats the Closest Google Font?](http://joelcrawfordsmith.com/closest-font/)
