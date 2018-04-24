@@ -7,7 +7,7 @@ por JavGuerra
 * http://examinator.ws/
 * http://www.tawdis.net/
 * https://achecker.ca/
-* http://joelcrawfordsmith.com/closest-font/
+* https://www.eff.org/
 
 ## Tecnologias, protocolos y conceptos
 * Metadata
@@ -273,8 +273,9 @@ por JavGuerra
 *  tota11y 
 
 ## Seguridad
-* Letsencrypt
-* Certbot
+* [Certbot](https://certbot.eff.org/)
+* [HTTPS Everywhere](https://www.eff.org/https-everywhere)
+* [Letsencrypt](https://letsencrypt.org/)
 
 ## CDN
 * Cloudflare
@@ -321,7 +322,7 @@ por JavGuerra
 * WinFF
 * 7zip
 
-## Bases de datos SGBDR
+## Bases de datos
 * MariaDB
 * PostgreSQL
 * MongoDB
@@ -343,6 +344,12 @@ por JavGuerra
 * Internet Explorer
 * Safari
 * Dolphin
+
+## Bloqueadores de anuncios
+* AdBlock plus
+* uBlock Origin
+* NoScript
+* Ghostery
 
 ## Servidores web
 * Apache
