@@ -4,6 +4,7 @@ por JavGuerra
 Si es posible...
 - Si es posible, en castellano.
 - Si es posible, software libre.
+- Si es posible, multiplataforma.
 
 ## Webs de referencia
 * https://www.w3c.es/
@@ -86,6 +87,7 @@ Si es posible...
 
 ## Lenguaje de marcas
 * HTML
+* HTML5
 * XHTML
 * CSS
 * SCSS
