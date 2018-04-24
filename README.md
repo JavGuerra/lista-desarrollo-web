@@ -1,6 +1,10 @@
 # Lista de recursos para desarrollo web
 por JavGuerra
 
+Si es posible...
+- Si es posible, en castellano.
+- Si es posible, software libre.
+
 ## Webs de referencia
 * https://www.w3c.es/
 * https://www.w3schools.com/
@@ -8,6 +12,7 @@ por JavGuerra
 * http://www.tawdis.net/
 * https://achecker.ca/
 * https://www.eff.org/
+* http://apache.org/
 
 ## Tecnologias, protocolos y conceptos
 * Metadata
@@ -17,6 +22,7 @@ por JavGuerra
 * IPv4
 * IPv6
 * ARP
+* NNTP
 * POP
 * IMAP
 * SMTP
@@ -35,6 +41,7 @@ por JavGuerra
 * SCP
 * Telnet
 * P2P
+* TOR
 * AJAX
 * API
 * APP
@@ -335,47 +342,49 @@ por JavGuerra
 * SQLiteman
 
 ## Navegadores web
-* lynx
+* [Dolphin](http://dolphin.com/spain/)
+* Edge
+* Google Chrome
+* Internet Explorer
+* Lynx
 * Mozilla Firefox
-* Chrome
 * Opera
 * Opera Mini
-* Edge
-* Internet Explorer
 * Safari
-* Dolphin
+* [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en)
 
 ## Bloqueadores de anuncios
-* AdBlock plus
-* uBlock Origin
-* NoScript
-* Ghostery
+* [AdBlock Plus](https://adblockplus.org/es/)
+* [Ghostery](https://www.ghostery.com/)
+* [NoScript](https://noscript.net/)
+* [uBlock Origin](https://github.com/gorhill/uBlock/)
 
 ## Servidores web
-* Apache
-* Nginx
-* IIS
+* [Apache](https://httpd.apache.org/)
+* [Internet Information Services (IIS)](https://www.iis.net/)
+* [Nginx](http://nginx.org/)
 
 ## Servidores Java
-* Geronimo
-* Glassfish
-* WildFly / JBoss AS
+* [Apache Geronimo](http://geronimo.apache.org/)
+* [Glassfish](http://glassfish.java.net/)
+* [WildFly, antes JBoss AS](http://wildfly.org/)
 
 ## Servidores de contenedores servlets
-* Tomcat
+* [Apache Tomcat](http://tomcat.apache.org/)
 
 ## Recursos web
-* Icons8
-* Font Awesome
-* Unsplash
-* freepik.com
-* Openclipart
-* realfavicongenerator.net
-* flaticon.com
-* Google fonts
-* Google translate
-* Google analitycs
-* Google maps
-* Youtube
-* regexr.com
+* [FlatIcon](https://www.flaticon.com/) 
+* [Font Awesome](https://fontawesome.com/) 
+* [Freepik](https://www.freepik.com/)
+* [Gmail](https://www.google.com/intl/es-419/gmail/about/)
+* [Google Analitycs](https://www.google.com/intl/es/analytics/) 
+* [Google Fonts](https://fonts.google.com/)
+* [Google Maps](https://www.google.es/maps) 
+* [Iconos8](https://iconos8.es/) 
+* [Openclipart](https://openclipart.org/)
+* [realfavicongenerator](https://realfavicongenerator.net/) 
+* [regexr](https://regexr.com/)
+* [Traductor de Google](https://translate.google.com/?hl=es) 
+* [Unsplash](https://unsplash.com/)
 * [Whats the Closest Google Font?](http://joelcrawfordsmith.com/closest-font/)
+* [Youtube](https://www.youtube.com/)
