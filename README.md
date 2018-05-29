@@ -364,6 +364,7 @@ por JavGuerra
 * [Github](https://github.com/)
 * [Fastly](https://www.fastly.com/)
 * [Netlify](https://www.netlify.com/)
+* [The Front-End Checklist](https://frontendchecklist.io/)
 * [Wordpress](https://es.wordpress.com/)
 
 ## Servicios web XML [↑](#%C3%8Dndice-de-contenidos)
