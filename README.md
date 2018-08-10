@@ -26,7 +26,7 @@ por JavGuerra
 13. [Despliege e instaladores](#despliege-e-instaladores-)
 14. [Editores y complementos](#editores-y-complementos-)
 15. [Entornos de Desarrollo Integrado (IDE)](#entornos-de-desarrollo-integrado-ide-)
-16. [Formación](#formacion-)
+16. [Formación](#formaci%C3%B3n-)
 17. [Formatos y contenedores multimedia](#formatos-y-contenedores-multimedia-)
 18. [Frameworks CSS](#frameworks-css-)
 19. [Frameworks JavaScript](#frameworks-javascript-)
